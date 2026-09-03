@@ -4,7 +4,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor Fron
 
 Tenho experiência profissional como Assistente de TI, atuando com suporte técnico, infraestrutura, redes, Active Directory e Microsoft 365. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento por meio de projetos práticos e buscando uma oportunidade de estágio ou posição júnior na área.
 
-## 🛠️ Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 
 - JavaScript ES6+
 - HTML5 e CSS3
@@ -35,6 +35,7 @@ Aplicação para criação, conclusão, exclusão e filtragem de tarefas, desenv
 
 **Análise e Desenvolvimento de Sistemas**  
 Universidade de Vassouras — conclusão prevista para 2027.
+
 **Técnico em Informática**
 SENAC RJ - Conclusão 2016
 
