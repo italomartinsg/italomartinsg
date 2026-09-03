@@ -37,7 +37,7 @@ Aplicação para criação, conclusão, exclusão e filtragem de tarefas, desenv
 Universidade de Vassouras — conclusão prevista para 2027.
 
 **Técnico em Informática**
-SENAC RJ - Conclusão 2016
+SENAC RJ — Conclusão 2016
 
 ##  Contato
 
